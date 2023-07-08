@@ -1,3 +1,5 @@
+> :warning: **Note!: This project has been migrated to [mermaid-js/zenuml-core](https://github.com/mermaid-js/zenuml-core). Please go to access the latest version.**
+
 ![editor](./docs/images/editor-sample.png)
 
 # ZenUML/Core
@@ -24,8 +26,8 @@ Please follow the [integration guide](./docs/asciidoc/integration-guide.adoc) fo
 # Development
 
 ```
-yarn install
-yarn start
+pnpm install
+pnpm dev
 ```
 
 ## CI/CD

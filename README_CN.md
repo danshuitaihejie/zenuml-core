@@ -1,8 +1,10 @@
+> :warning: **注意!：本项目已经迁移到 [mermaid-js/zenuml-core](https://github.com/mermaid-js/zenuml-core) , 请前往访问最新版本。**
+
 # Development
 
 ```
-yarn install
-yarn start
+pnpm install
+pnpm dev
 ```
 
 # 代码结构
